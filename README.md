@@ -48,7 +48,7 @@ Terraform project to provision an AWS EC2 workstation pre-configured with DevOps
 ### 1. Clone the repo
 
 ```powershell
-git clone https://github.com/daws-88s/terraform-aws-workstation.git
+git clone https://github.com/durgaprasad-28/terraform-aws-workstation.git
 cd terraform-aws-workstation
 ```
 
